@@ -1,0 +1,9 @@
+0a1521cb05170aa76b69f7e2d8fa296b *DESCRIPTION
+d1c7b3a7d97569cff5126b71d46c356c *NAMESPACE
+263dd8d48f1c21c30c849f1c7cdf56d2 *R/PKPDmodels.R
+ba45e4dd75f854aa694c064196581722 *inst/doc/UsersGuide.Rnw
+85beb46168ba049a7b9ad200623880be *inst/doc/UsersGuide.pdf
+63ca619afea32c11026c9c1b418846c5 *man/PKexpr.Rd
+01a457cfd4dd7cea79d4edae6fc70e0a *man/PKmod.Rd
+75d9ac1c67351eddabef4bdf455d21ad *man/subexpr.Rd
+ba45e4dd75f854aa694c064196581722 *vignettes/UsersGuide.Rnw
