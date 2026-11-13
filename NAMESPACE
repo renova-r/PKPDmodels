@@ -1,2 +1,3 @@
 importFrom("compiler", cmpfun)
 export(PKexpr,PKmod)
+importFrom(stats,deriv)

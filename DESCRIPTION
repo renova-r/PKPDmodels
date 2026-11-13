@@ -1,11 +1,16 @@
 Package: PKPDmodels
-Title: Pharmacokinetic/pharmacodynamic models
+Title: Pharmacokinetic/Pharmacodynamic Models
 Type: Package
-Version: 0.3.2
-Date: 2012-01-14
-Author: Anne Dubois, Julie Bertand, France Mentre and Douglas Bates
+Version: 0.3.2.9001
+Authors@R: c(person(given = "Anne", family = "Dubois", role = "aut"),
+        person(given = "Julie", family = "Bertand", role = "aut"),
+        person(given = "France", family = "Mentre", role = "aut"),
+        person(given = "Douglas", family = "Bates", role = c("aut", "cre"),
+               email = "Bates@R-project.org"))
+Author: Anne Dubois [aut], Julie Bertand [aut], France Mentre [aut], Douglas Bates [aut, cre]
 Description: Provides functions to evaluate common
         pharmacokinetic/pharmacodynamic models and their gradients.
+    Compatibility updates by Renova.
 Depends: R(>= 2.13.0)
 Imports: compiler
 Suggests: lattice
